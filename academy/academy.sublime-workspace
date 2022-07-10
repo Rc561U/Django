@@ -1,0 +1,814 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"content"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"f",
+				"find_all"
+			],
+			[
+				"so",
+				"soup"
+			],
+			[
+				"hea",
+				"headers"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"media",
+				"MEDIA_ROOT"
+			],
+			[
+				"DOC",
+				"document_root"
+			],
+			[
+				"MED",
+				"MEDIA_URL"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"Pyt",
+				"python3.9"
+			],
+			[
+				"m",
+				"mines"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"a",
+				"around_mines"
+			],
+			[
+				"cle",
+				"clear_terminal"
+			],
+			[
+				"Ke",
+				"KeyError"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"I",
+				"IndexError"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"coun",
+				"count_items"
+			],
+			[
+				"art",
+				"art_default"
+			],
+			[
+				"pyt",
+				"python3.9"
+			],
+			[
+				"tot",
+				"total_count"
+			],
+			[
+				"to",
+				"total_count"
+			],
+			[
+				"en",
+				"ensure_ascii="
+			],
+			[
+				"js",
+				"json"
+			],
+			[
+				"get",
+				"get_contact"
+			],
+			[
+				"fi",
+				"finder_dick"
+			],
+			[
+				"te",
+				"team_title"
+			],
+			[
+				"us",
+				"user_left"
+			],
+			[
+				"user",
+				"user_left"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"next",
+				"nextlink"
+			],
+			[
+				"ge",
+				"get"
+			],
+			[
+				"A",
+				"AttributeError"
+			],
+			[
+				"is",
+				"is_medical"
+			],
+			[
+				"lis",
+				"list_result"
+			],
+			[
+				"l",
+				"list_result"
+			],
+			[
+				"fin",
+				"findall"
+			],
+			[
+				"g",
+				"get_url"
+			],
+			[
+				"rep",
+				"replace_price"
+			],
+			[
+				"prod",
+				"product_name"
+			],
+			[
+				"use",
+				"user_cart"
+			],
+			[
+				"for",
+				"format_info"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"nu",
+				"number1"
+			],
+			[
+				"u",
+				"user_choose"
+			],
+			[
+				"loc",
+				"local_dict_2"
+			],
+			[
+				"tab",
+				"table_name"
+			],
+			[
+				"th",
+				"thirdPageResult"
+			],
+			[
+				"loca",
+				"local_dict"
+			],
+			[
+				"n",
+				"number_of_page"
+			],
+			[
+				"sec",
+				"secondPage"
+			],
+			[
+				"ta",
+				"table_name"
+			],
+			[
+				"user_",
+				"user_input"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"prpa",
+				"prepatate_str"
+			],
+			[
+				"da",
+				"database1"
+			],
+			[
+				"d",
+				"data/"
+			],
+			[
+				"exe",
+				"executescript"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"cre",
+				"create_dir"
+			],
+			[
+				"i",
+				"item_title"
+			],
+			[
+				"it",
+				"item_title"
+			],
+			[
+				"pag",
+				"page_links"
+			],
+			[
+				"r",
+				"row_html"
+			],
+			[
+				"row",
+				"row_html"
+			],
+			[
+				"li",
+				"links"
+			],
+			[
+				"sql",
+				"sql_te"
+			],
+			[
+				"sq",
+				"sql_quory"
+			],
+			[
+				"se",
+				"second_table_write"
+			],
+			[
+				"s",
+				"second_table"
+			],
+			[
+				"item_",
+				"item_href"
+			],
+			[
+				"all",
+				"all_titles"
+			],
+			[
+				"D",
+				"DictReader"
+			],
+			[
+				"0",
+				"0_Баранина_и_дичь.csv"
+			],
+			[
+				"lo",
+				"loads"
+			],
+			[
+				"product_",
+				"product_info"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"car",
+				"carbohydrates"
+			],
+			[
+				"product",
+				"product_info"
+			],
+			[
+				"ite",
+				"iteration_count"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"p",
+				"product_tds"
+			],
+			[
+				"products_",
+				"product_tds"
+			],
+			[
+				"writ",
+				"writerow"
+			],
+			[
+				"e",
+				"encoding="
+			],
+			[
+				"he",
+				"headers"
+			],
+			[
+				"cat",
+				"category_link"
+			],
+			[
+				"ca",
+				"category_name"
+			],
+			[
+				"al",
+				"all_categories_dict"
+			],
+			[
+				"UR",
+				"URL"
+			],
+			[
+				"fr",
+				"friends"
+			],
+			[
+				"gr",
+				"group_id"
+			],
+			[
+				"grou",
+				"group_id"
+			],
+			[
+				"ti",
+				"timer_decorator"
+			],
+			[
+				"de",
+				"delete_friends"
+			],
+			[
+				"file",
+				"file_url"
+			],
+			[
+				"du",
+				"dumps"
+			],
+			[
+				"im",
+				"images/"
+			],
+			[
+				"ap",
+				"append"
+			],
+			[
+				"h",
+				"h1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"branc",
+				"Git: New Branch"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"forma",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"pep",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"autopep",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"pac",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 166.0,
+		"history":
+		[
+			"pip install cssselect",
+			"s",
+			"pip install requests",
+			"quit()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/hugeatom/Learn projectes/Django/academy/super"
+	],
+	"file_history":
+	[
+		"/home/hugeatom/Learn projectes/Django/academy/super/super/settings.py",
+		"/home/hugeatom/Learn projectes/web_scraping_projects/find_keyword.py",
+		"/home/hugeatom/Learn projectes/web_scraping_projects/nature_parser/nature.py",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/content/nature_scrap.py",
+		"/home/hugeatom/.config/sublime-text/Packages/User/hm_backup.sublime-build",
+		"/home/hugeatom/Learn projectes/web_scraping_projects/README.md",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/models.py",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/nature_scrap.py",
+		"/home/hugeatom/Learn projectes/Django/coolsite/coolsite/settings.py",
+		"/home/hugeatom/Learn projectes/Django/coolsite/coolsite/urls.py",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/urls.py",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/views.py",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/templates/health/base.html",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/templates/health/about.html",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/templates/health/index.html",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/migrations/ss.py",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/templates/index.html",
+		"/home/hugeatom/Learn projectes/Django/coolsite/health/apps.py",
+		"/home/hugeatom/Learn projectes/Django/test.py",
+		"/home/hugeatom/Learn projectes/backup_homework/saper.py",
+		"/home/hugeatom/.config/sublime-text/Packages/User/coolsite.sublime-build",
+		"/home/hugeatom/Learn projectes/backup_homework/testss.py",
+		"/home/hugeatom/Learn projectes/backup_homework/ui.py",
+		"/home/hugeatom/Learn projectes/web_scraping_projects/tournament squad/main.py",
+		"/home/hugeatom/Learn projectes/web_scraping_projects/tournament squad/data/reform_result.json",
+		"/home/hugeatom/Learn projectes/backup_homework/requirements.txt",
+		"/home/hugeatom/Learn projectes/backup_homework/test.py",
+		"/home/hugeatom/Learn projectes/backup_homework/data.py",
+		"/home/hugeatom/Learn projectes/backup_homework/bl.py",
+		"/home/hugeatom/Learn projectes/backup_homework/hm_backup.sublime-project",
+		"/home/hugeatom/Learn projectes/backup_homework/qi.py",
+		"/home/hugeatom/Learn projectes/main.py",
+		"/home/hugeatom/Learn projectes/homework/main.py",
+		"/home/hugeatom/Learn projectes/homework/zalupa.sublime-project",
+		"/home/hugeatom/Learn projectes/homework/test.py",
+		"/home/hugeatom/Learn projectes/homework/qi.py",
+		"/home/hugeatom/.config/sublime-text/Packages/User/homework.sublime-build",
+		"/home/hugeatom/Learn projectes/homework/bl.py",
+		"/home/hugeatom/Learn projectes/homework/data.py",
+		"/home/hugeatom/restore/qi/f956435280.py",
+		"/home/hugeatom/restore/f900503480.py",
+		"/home/hugeatom/Learn projectes/fd/test.py",
+		"/home/hugeatom/restore/f811954272.py",
+		"/home/hugeatom/restore/f970761408.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27561920.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27561688.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27561672.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27561664.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27561656.py",
+		"/home/hugeatom/fgd/recup_dir.12/f19355648.py",
+		"/home/hugeatom/fgd/recup_dir.12/f19353600.py",
+		"/home/hugeatom/fgd/recup_dir.7/f17067008.py",
+		"/home/hugeatom/rec/lesson_3/homework/qi.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27561944.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27562136.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27562440.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27562488.py",
+		"/home/hugeatom/fgd/recup_dir.17/f27563256.py",
+		"/home/hugeatom/fgd/recup_dir.19/f33550080.py",
+		"/home/hugeatom/fgd/recup_dir.19/f33550304.py",
+		"/home/hugeatom/fgd/recup_dir.29/f42172160.py",
+		"/home/hugeatom/fgd/recup_dir.31/f58994208.py",
+		"/home/hugeatom/fgd/recup_dir.31/f59050544.py",
+		"/home/hugeatom/fgd/recup_dir.31/f59107368.py",
+		"/home/hugeatom/fgd/recup_dir.31/f59111688.py",
+		"/home/hugeatom/fgd/recup_dir.31/f59111696.py",
+		"/home/hugeatom/fgd/recup_dir.31/f59113136.py",
+		"/home/hugeatom/fgd/recup_dir.31/f59130616.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59132152.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59147368.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59149096.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59161056.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59161080.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59177640.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59197352.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59215064.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59216400.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59216992.py",
+		"/home/hugeatom/fgd/recup_dir.32/f59217024.py",
+		"/home/hugeatom/fgd/recup_dir.33/f59241776.py",
+		"/home/hugeatom/fgd/recup_dir.33/f59242408.py",
+		"/home/hugeatom/fgd/recup_dir.33/f59244176.py",
+		"/home/hugeatom/fgd/recup_dir.33/f59308736.py",
+		"/home/hugeatom/fgd/recup_dir.35/f59379768.py",
+		"/home/hugeatom/fgd/recup_dir.35/f59380352.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63125696.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63125912.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63125920.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126088.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126144.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126240.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126288.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126304.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126320.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126328.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126344.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126400.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126432.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126440.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126448.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126600.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126616.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126624.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126648.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126704.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126920.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126936.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63126960.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63127016.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63127056.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63127072.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63127128.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63127184.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63127200.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63127272.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63127296.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63127320.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63127376.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63127408.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63127424.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63127432.py",
+		"/home/hugeatom/fgd/recup_dir.40/f63127504.py",
+		"/home/hugeatom/fgd/recup_dir.42/f64488000.py",
+		"/home/hugeatom/fgd/recup_dir.42/f64488008.py",
+		"/home/hugeatom/fgd/recup_dir.42/f64488064.py",
+		"/home/hugeatom/fgd/recup_dir.42/f64489256.py",
+		"/home/hugeatom/fgd/recup_dir.42/f64489264.py",
+		"/home/hugeatom/restore/f64489288.py"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 126.0
+	},
+	"output.Protocol":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 302.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 198.0
+	},
+	"pinned_build_system": "Packages/User/Scraping.sublime-build",
+	"project": "academy.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Learn projectes/homework/zalupa.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 287.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
